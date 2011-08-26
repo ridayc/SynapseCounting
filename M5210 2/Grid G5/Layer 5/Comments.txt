@@ -1,0 +1,2 @@
+052 G5-3.tif	9	"G4-3.tif and G4-5.tif don't correspond"
+052 G5-5.tif	10	"G4-3.tif and G4-5.tif don't correspond"

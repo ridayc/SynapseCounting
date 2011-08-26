@@ -1,0 +1,3 @@
+005 G3-1.tif	1	"holes and stains in G3-1.tif and G3-3.tif"
+005 G3-3.tif	2	"holes and stains in G3-1.tif and G3-3.tif"009 G3-1.tif	5	"tear in G3-3.tif"
+009 G3-3.tif	6	"tear in G3-3.tif"017 G3-1.tif	13	"cut in G3-1.tif" 017 G3-3.tif	14	"cut in G3-1.tif" 

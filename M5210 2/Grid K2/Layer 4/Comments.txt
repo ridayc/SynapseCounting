@@ -1,0 +1,2 @@
+036 K2-1.tif	3	"tear in K2-3.tif"
+036 K2-3.tif	4	"tear in K2-3.tif"

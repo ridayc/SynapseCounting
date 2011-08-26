@@ -1,0 +1,2 @@
+007 G5-3.tif	9	"tear in G5-5.tif"
+007 G5-5.tif	10	"tear in G5-5.tif"

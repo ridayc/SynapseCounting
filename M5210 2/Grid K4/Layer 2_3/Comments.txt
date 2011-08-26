@@ -1,0 +1,6 @@
+007 K4-2.tif	5	"K4-4.tif misaligned"
+007 K4-4.tif	6	"K4-4.tif misaligned"
+021 K4-2.tif	31	"K4-4.tif too blurred"
+021 K4-4.tif	32	"K4-4.tif too blurred"
+024 K4-2.tif	37	"blotch in K4-4.tif"
+024 K4-4.tif	38	"blotch in K4-4.tif"

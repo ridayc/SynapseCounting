@@ -1,0 +1,6 @@
+003 J5-1.tif	5	"cut in J5-3.tif"
+003 J5-3.tif	6	"cut in J5-3.tif"
+015 J5-1.tif	15	"tear in J5-3.tif"
+015 J5-3.tif	16	"tear in J5-3.tif"
+015 J5-1.tif	23	"tear in J5-1.tif"
+015 J5-3.tif	24	"tear in J5-1.tif"

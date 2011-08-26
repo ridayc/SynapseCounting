@@ -1,0 +1,4 @@
+096 K4-2.tif	7	"cut in K4-4.tif"
+096 K4-4.tif	8	"cut in K4-4.tif"
+099 K4-2.tif	13	"cut in K4-4.tif"
+099 K4-4.tif	14	"cut in K4-4.tif"

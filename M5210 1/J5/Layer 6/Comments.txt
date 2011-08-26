@@ -1,0 +1,2 @@
+083 J5-1.tif	1	"tear in J5-3.tif"
+083 J5-3.tif	2	"tear in J5-3.tif"

@@ -1,0 +1,6 @@
+013 G3-1.tif	1	"folds in G3-1.tif and G3-3.tif"
+013 G3-3.tif	2	"folds in G3-1.tif and G3-3.tif"
+027 G3-1.tif	7	"tear in G3-3.tif"
+027 G3-3.tif	8	"tear in G3-3.tif"
+056 G3-1.tif	29	"tear in G3-1.tif"
+056 G3-3.tif	30	"tear in G3-1.tif"

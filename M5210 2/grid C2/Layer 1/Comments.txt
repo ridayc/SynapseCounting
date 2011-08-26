@@ -1,0 +1,2 @@
+004 C2-1.tif	7	"tear in C2-3.tif"
+004 C2-3.tif	8	"tear in C2-3.tif"

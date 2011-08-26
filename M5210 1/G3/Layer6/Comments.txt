@@ -1,0 +1,4 @@
+078 G3-1.tif	7	"tear in G3-1.tif"
+078 G3-3.tif	8	"tear in G3-1.tif"
+087 G3-1.tif	13	"tears in G3-1.tif"
+087 G3-3.tif	14	"tears in G3-1.tif"

@@ -1,0 +1,6 @@
+010 J5-1.tif	5	"tear in J5-3.tif"
+010 J5-3.tif	6	"tear in J5-3.tif"
+037 J5-1.tif	27	"tear in J5-3.tif"
+037 J5-3.tif	28	"tear in J5-3.tif"
+048 J5-1.tif	31	"tear in J5-1.tif"
+048 J5-3.tif	32	"tear in J5-1.tif"

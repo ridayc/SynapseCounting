@@ -1,0 +1,2 @@
+096 D3-2.tif	11	"tear in D3-2.tif"
+096 D3-4.tif	12	"tear in D3-2.tif"

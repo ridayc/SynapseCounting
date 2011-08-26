@@ -1,0 +1,2 @@
+026 C2-1.tif	1	"tear in C2-1.tif & cut in C2-3.tif"
+026 C2-3.tif	2	"tear in C2-1.tif & cut in C2-3.tif"

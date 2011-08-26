@@ -1,0 +1,2 @@
+028 K2-1.tif	41	"fold in K2-3.tif"
+028 K2-3.tif	42	"fold in K2-3.tif"

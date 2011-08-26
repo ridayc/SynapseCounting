@@ -1,0 +1,2 @@
+052 G3-1.tif	11	"tear in G3-3.tif"
+052 G3-3.tif	12	"tear in G3-3.tif"

@@ -1,0 +1,8 @@
+044 C2-1.tif	15	"cut in C2-3.tif"
+044 C2-3.tif	16	"cut in C2-3.tif"
+046 C2-1.tif	19	"tear in C2-1.tif"
+046 C2-3.tif	20	"tear in C2-1.tif"
+052 C2-1.tif	31	"cut in C2-3.tif"
+052 C2-3.tif	32	"cut in C2-3.tif"
+054 C2-1.tif	35	"cut in C2-3.tif"
+054 C2-3.tif	36	"cut in C2-3.tif"

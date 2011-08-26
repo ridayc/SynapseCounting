@@ -1,0 +1,4 @@
+011 C2-1.tif	5	"G5-3.tif & G5-5.tif not aligned"
+011 C2-3.tif	6	"G5-3.tif & G5-5.tif not aligned"
+029 G5-3.tif	37	"cut in G5-3.tif"
+029 G5-5.tif	38	"cut in G5-3.tif"

@@ -1,0 +1,2 @@
+042 D3-2.tif	43	"tear in D3-2.tif"
+042 D3-4.tif	44	"tear in D3-2.tif"

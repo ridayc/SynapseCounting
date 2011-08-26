@@ -1,0 +1,4 @@
+038 G5-3.tif	11	"fold in G5-5.tif"
+038 G5-5.tif	12	"fold in G5-5.tif"
+039 G5-3.tif	11	"blot in G5-5.tif"
+039 G5-5.tif	12	"blot in G5-5.tif"
