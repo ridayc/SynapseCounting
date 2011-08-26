@@ -1,3 +1,6 @@
 *.eps
 *.png
 *.svg
+*.mat
+*.m~
+*.DS_Store
